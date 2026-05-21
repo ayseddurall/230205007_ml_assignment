@@ -1,0 +1,4 @@
+{
+    "framework": "xgboost",
+    "model_file": "model.ubj"
+}
